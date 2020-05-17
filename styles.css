@@ -18,10 +18,6 @@ a {
 	text-decoration: underline;
 }
 
-a:hover {
-	font-weight: 700;
-}
-
 h1 {
 	text-align: center;
 }
